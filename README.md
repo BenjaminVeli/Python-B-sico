@@ -1,10 +1,10 @@
 <h1 align="center">Curso de Python Básico</h1>
 
-<p align="center">
+<p>
   Este repositorio contiene ejercicios y ejemplos básicos de programación en Python. Está basado en el video tutorial Curso Python desde Cero.
 </p>
 
-<h3 align="center">Contenido 💻</h3>
+<h3 align="center">Contenido</h3>
 
 - **Variables**: Introducción a las variables en Python.
 - **Strings**: Manejo de cadenas de texto.
